@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
+  "name": "DEV-IMOLE",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-XMD"],
+  "keywords": ["DEV-IMOLE"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "DEV-IMOLE"
     }, 
       
     "PREFIX": {
